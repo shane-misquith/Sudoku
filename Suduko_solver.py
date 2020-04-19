@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 17 20:47:28 2020
-
-@author: LENOVO
-"""
 
 def find_empty(bo):
     for i in range(len(bo)):
