@@ -1,14 +1,7 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 18 20:27:32 2020
-
-@author: LENOVO
-"""
-
 import pygame
 import time
 pygame.font.init()
-
 
 class Grid:
     board = [
